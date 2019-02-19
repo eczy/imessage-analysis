@@ -1,0 +1,21 @@
+name: imessage-analysis
+channels:
+  - defaults
+dependencies:
+  - ipykernel=5.1.0=py37h39e3cac_0
+  - ipython=7.2.0=py37h39e3cac_0
+  - ipython_genutils=0.2.0=py37_0
+  - jupyter_client=5.2.4=py37_0
+  - jupyter_core=4.4.0=py37_0
+  - jupyterlab=0.35.3=py37_0
+  - jupyterlab_server=0.2.0=py37_0
+  - nltk=3.4=py37_1
+  - numpy=1.15.4=py37hacdab7b_0
+  - numpy-base=1.15.4=py37h6575580_0
+  - pandas=0.24.1=py37h0a44026_0
+  - pip=18.1=py37_0
+  - python=3.7.1=haf84260_7
+  - pip:
+    - phonenumbers==8.10.5
+    - sqlalchemy==1.2.17
+
