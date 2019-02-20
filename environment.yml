@@ -9,6 +9,7 @@ dependencies:
   - jupyter_core=4.4.0=py37_0
   - jupyterlab=0.35.3=py37_0
   - jupyterlab_server=0.2.0=py37_0
+  - matplotlib=3.0.2=py37h54f8f79_0
   - nltk=3.4=py37_1
   - numpy=1.15.4=py37hacdab7b_0
   - numpy-base=1.15.4=py37h6575580_0
